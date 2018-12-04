@@ -1,0 +1,4 @@
+SELECT Check.check_id;
+ FROM ;
+     data1!check;
+ WHERE  Check.date_time is ("10/02/10 10:20:00 AM")
